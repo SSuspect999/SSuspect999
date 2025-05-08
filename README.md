@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **CPTS exam**
+ 🔭 I’m currently working on **CRTO exam**
  
  🌱 I’m currently learning **AWS**
 
